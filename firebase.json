@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "pilu_b1",
+    "site": "pilu24-54e5c-529ea",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
